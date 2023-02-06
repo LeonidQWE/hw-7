@@ -1,0 +1,24 @@
+<svg width="0" height="0" xmlns="http://www.w3.org/2000/svg">
+  <symbol id="facebookIcon" viewBox="0 0 32 56">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M7.827 55.708h11.667V32.346h10.511l1.155-11.608H19.494v-5.863a2.916 2.916 0 0 1 2.916-2.917h8.75V.292h-8.75A14.583 14.583 0 0 0 7.827 14.875v5.863H1.994L.839 32.346h6.988v23.362Z" fill="currentColor"/>
+  </symbol>
+</svg>
+
+<!-- ./images/icons.svg -->
+
+<svg width="0" height="0" xmlns="http://www.w3.org/2000/svg">
+	<!-- Исходный код svg -->
+	<!--
+		<svg width="16" height="16" fill="none" xmlns="http://www.w3.org/2000/svg">
+			<path fill-rule="evenodd" clip-rule="evenodd" d="M2.2 2.2a.67.67 0 0 1 .94 0L8 7.06l4.86-4.86a.67.67 0 1 1 .94.94L8.94 8l4.86 4.86a.67.67 0 1 1-.94.94L8 8.94 3.14 13.8a.67.67 0 1 1-.94-.94L7.06 8 2.2 3.14a.67.67 0 0 1 0-.94Z" fill="#222"/>
+		</svg>
+	-->
+
+	<!-- Необходимый код -->
+	<!-- Close -->
+  <symbol id="closeIcon" viewBox="0 0 24 24">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M2.2 2.2a.67.67 0 0 1 .94 0L8 7.06l4.86-4.86a.67.67 0 1 1 .94.94L8.94 8l4.86 4.86a.67.67 0 1 1-.94.94L8 8.94 3.14 13.8a.67.67 0 1 1-.94-.94L7.06 8 2.2 3.14a.67.67 0 0 1 0-.94Z" fill="currentColor"/>
+  </symbol>
+</svg>
+
+
